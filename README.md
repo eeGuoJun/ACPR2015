@@ -14,4 +14,4 @@ Please cite our work if you find these resources helpful.
         year = {2015}
     }
 
-If you have problems, please contact us at eeguojun@outlook.com
+If you have problems, please contact us at guoyq@dlut.edu.cn
